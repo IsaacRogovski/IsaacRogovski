@@ -4,4 +4,4 @@
 
 ### 🛠️ Technologies:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,jquery,react,bootstrap,php,mysql,git,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,jquery,bootstrap,php,mysql,git,github)](https://skillicons.dev)
