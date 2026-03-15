@@ -1,7 +1,8 @@
-## Hello, I'm Isaac 👋
+##Hello, I'm Isaac 👋
 
-💻 I'm a 3rd year IT student passionate about coding and web technologies.  
-
+💻 Systems Analysis and Development student at IFSP.
+🎓 IT Technician graduate from ETEC.
+🚀 Passionate about programming, web development and software engineering.
 ### 🛠️ Technologies:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,electron,jquery,bootstrap,php,mysql,git,github)](https://skillicons.dev)
