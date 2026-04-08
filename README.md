@@ -5,13 +5,6 @@
 🚀 Passionate about programming, web development and software engineering.
 
 
-
-## 🧠 Languages
-
-[![Languages](https://skillicons.dev/icons?i=cs,js,php)](https://skillicons.dev)
-
-
-
 ## 🧰 Front-end
 
 [![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)](https://skillicons.dev)
