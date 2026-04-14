@@ -12,5 +12,3 @@
 
 - C# (focused on logic and system development)
 - Linux Pop!_OS (terminal, package management, automation)
-  
-a
